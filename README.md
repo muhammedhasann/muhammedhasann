@@ -29,7 +29,7 @@ Hello there, I'm Muhammed!
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 Senior Mechanical Engineering student at Siirt University
+- 🎓  Mechanical Engineer
 - 💻 Backend Development graduate from Re:Coded
 - 🔬 TÜBİTAK Undergraduate Researcher
 - 🌱 Passionate about sustainable energy and AI applications
